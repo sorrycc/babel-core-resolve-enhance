@@ -4,4 +4,5 @@ tmp
 node_modules
 src/__tests__/fixtures/**/dist
 coverage
+lib
 
