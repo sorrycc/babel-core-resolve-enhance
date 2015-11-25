@@ -1,7 +1,7 @@
 {
   "name": "babel-core-resolve-enhance",
   "version": "0.1.1",
-  "description": "Enhance babel-core's resolve to add dirnames.",
+  "description": "Enhance resolve dirname addable for babel 6 core.",
   "repository": {
     "type": "git",
     "url": "https://github.com/ant-tool/babel-core-resolve-enhance"
