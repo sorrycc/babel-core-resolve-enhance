@@ -1,6 +1,6 @@
 {
   "name": "babel-core-resolve-enhance",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Enhance babel-core's resolve to add dirnames.",
   "repository": {
     "type": "git",
@@ -12,7 +12,7 @@
   "main": "./lib",
   "scripts": {
     "build": "rm -rf lib && ./node_modules/.bin/babel src --out-dir lib --ignore __tests__",
-    "publish": "npm run build",
+    "prepublish": "npm run build",
     "test": "jest",
     "lint": "eslint --ext .js src"
   },
