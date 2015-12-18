@@ -1,6 +1,6 @@
 {
   "name": "babel-core-resolve-enhance",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Enhance resolve dirname addable for babel 6 core.",
   "repository": {
     "type": "git",
