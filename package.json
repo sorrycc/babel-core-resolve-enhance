@@ -12,7 +12,6 @@
   "main": "./lib",
   "scripts": {
     "build": "rm -rf lib && ./node_modules/.bin/babel src --out-dir lib --ignore __tests__",
-    "prepublish": "npm run build",
     "test": "jest",
     "lint": "eslint --ext .js src"
   },
